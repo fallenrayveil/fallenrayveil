@@ -2,6 +2,8 @@
 <br>ようこそ！</h1>
 <h3 align="center">A passionate web developer and also an night owl.</h3>
 
+[![](https://visitcount.itsvg.in/api?id=fallenrayveil&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I’m currently learning cloud computing and web development in more depth.<br>Fun fact about me is "There isn't a day I go without a cup of coffee."
 
@@ -17,7 +19,6 @@ I’m currently learning cloud computing and web development in more depth.<br>F
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fallenrayveil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fallenrayveil&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Rayveil) 

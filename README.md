@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fallenrayveil&label=Profile%20Views&color=6e1ac1&style=flat" alt="fallenrayveil" /> </p>
 
 # 💫 About Me:
-I’m currently learning cloud computing and web development in more depth.<br>Fun fact about me is "There isn't a day I go without a cup of coffee."
+I’m currently learning cloud computing and web development in more depth.<br>Fun fact about me is "There isn't a day I go without a cup of coffee.<br>Sometimes I like to do photography and videography in my spare time."
 
 
 ## 🌐 Socials:

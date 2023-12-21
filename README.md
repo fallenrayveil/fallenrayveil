@@ -6,7 +6,7 @@
 <img src="https://64.media.tumblr.com/67d5d24dba2e5483c9573c315c56b01f/372c7b97e4e2b977-49/s1280x1920/117c53832e55f2eb52aa7d9c572fd1867ad2ba70.gifv" width=60%>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fallenrayveil&label=Profile%20views&color=6e1ac1&style=flat" alt="fallenrayveil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fallenrayveil&label=Profile%20Views&color=6e1ac1&style=flat" alt="fallenrayveil" /> </p>
 
 # 💫 About Me:
 I’m currently learning cloud computing and web development in more depth.<br>Fun fact about me is "There isn't a day I go without a cup of coffee."

@@ -1,6 +1,6 @@
 <h1 align="center">You can call me Ray / Rayyan
 <br>ようこそ！</h1>
-<h3 align="center">A passionate web developer and also an night owl.</h3>
+<h3 align="center">A passionate web developer and also an Jingliu Main.</h3>
 
 <p align="center">
 <img src="https://64.media.tumblr.com/67d5d24dba2e5483c9573c315c56b01f/372c7b97e4e2b977-49/s1280x1920/117c53832e55f2eb52aa7d9c572fd1867ad2ba70.gifv" width=60%>

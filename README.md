@@ -2,7 +2,7 @@
 <br>ようこそ！</h1>
 <h3 align="center">A passionate web developer and also an night owl.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=fallenrayveil&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fallenrayveil&label=Profile%20views&color=6e1ac1&style=flat" alt="fallenrayveil" /> </p>
 
 # 💫 About Me:
 I’m currently learning cloud computing and web development in more depth.<br>Fun fact about me is "There isn't a day I go without a cup of coffee."
